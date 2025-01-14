@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm **Mikaela**, and I absolutely love learning! 🌟
+
+Whether it's exploring new technologies, diving into creative projects, or picking up new skills, I'm always excited to discover something new and share it with others.
+
+Feel free to connect with me here on GitHub or drop by my repositories to see what I'm working on. Let's learn and grow together!
+
 <!--
 **mikaelaMolina/mikaelaMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
